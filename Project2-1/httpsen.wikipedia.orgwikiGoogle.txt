@@ -1,0 +1,61 @@
+Google
+From Wikipedia, the free encyclopedia
+This article is about the company. For the search engine, see Google Search. For other uses, see Google (disambiguation).
+Not to be confused with Googol.
+Google LLC
+The letters of "Google" are each purely colored (from left to right) in blue, red, yellow, blue, green, and red.
+Google's logo since 2015
+Googleplex-Patio-Aug-2014.JPG
+Google's headquarters, the Googleplex, in August 2014
+Formerly called
+Google Inc. (1998–2017)
+Type
+Subsidiary
+Industry	
+Internet
+Software
+Computer hardware
+Founded	September 4, 1998; 19 years ago in Menlo Park, California, U.S.[1][2]
+Founders	
+Larry Page
+Sergey Brin
+Headquarters	Googleplex, Mountain View, California, U.S.[3]
+Area served
+Worldwide
+Key people
+Sundar Pichai (CEO)
+Ruth Porat (CFO)
+Products	List of Google products
+Number of employees
+73,992[4] (2017)
+Parent	Alphabet Inc. (2015–present)
+Subsidiaries	List of subsidiaries
+Website	google.com
+Google LLC[5] is an American multinational technology company that specializes in Internet-related services and products. These include online advertising technologies, search, cloud computing, software, and hardware. Google was founded in 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University, in California. Together, they own about 14 percent of its shares, and control 56 percent of the stockholder voting power through supervoting stock. They incorporated Google as a privately held company on September 4, 1998. An initial public offering (IPO) took place on August 19, 2004, and Google moved to its new headquarters in Mountain View, California, nicknamed the Googleplex. In August 2015, Google announced plans to reorganize its various interests as a conglomerate called Alphabet Inc. Google, Alphabet's leading subsidiary, will continue to be the umbrella company for Alphabet's Internet interests. Upon completion of the restructure, Sundar Pichai was appointed CEO of Google; he replaced Larry Page, who became CEO of Alphabet.
+
+
+Search engine
+Main articles: Google Search and Google Images
+
+Google Search homepage as of December 2, 2016
+According to market research published by comScore in November 2009, Google Search is the dominant search engine in the United States market, with a market share of 65.6%.[170] Google indexes billions[171] of web pages, so that users can search for the information they desire through the use of keywords and operators.
+
+In 2003, The New York Times complained about Google's indexing, claiming that Google's caching of content on its site infringed its copyright for the content.[172] In this case, the United States District Court of Nevada ruled in favor of Google in Field v. Google and Parker v. Google.[173][174] The publication 2600: The Hacker Quarterly has compiled a list of words that the web giant's new instant search feature will not search.[175]
+
+Google Watch has criticized Google's PageRank algorithms, saying that they discriminate against new websites and favor established sites.[176]
+
+Google also hosts Google Books. The company began scanning books and uploading limited previews, and full books were allowed, into its new book search engine. The Authors Guild, a group that represents 8,000 U.S. authors, filed a class action suit in a New York City federal court against Google in 2005 over this service. Google replied that it is in compliance with all existing and historical applications of copyright laws regarding books.[177] Google eventually reached a revised settlement in 2009 to limit its scans to books from the U.S., the UK, Australia, and Canada.[178] Furthermore, the Paris Civil Court ruled against Google in late 2009, asking it to remove the works of La Martinière (Editions du Seuil) from its database.[179] In competition with Amazon.com, Google sells digital versions of new books.[180]
+
+Other websites
+Google Developers is Google's site for software development tools, APIs, and technical resources. The site contains documentation on using Google developer tools and APIs—including discussion groups and blogs for developers using Google's developer products.
+
+Google Labs was a page created by Google to demonstrate and test new projects.
+
+Google owns the top-level domain 1e100.net which is used for some servers within Google's network. The name is a reference to the scientific E notation representation for 1 googol, 1E100 = 1 × 10100.[254]
+
+In March 2017, Google launched a new website, opensource.google.com, to publish its internal documentation for Google Open Source projects.[255][256]
+
+In June 2017, Google launched "We Wear Culture", a searchable archive of 3,000 years of global fashion. The archive, a result of collaboration between Google and over 180 museums, schools, fashion institutes, and other organizations, also offers curated exhibits of specific fashion topics and their impact on society
+
+Lobbying
+In 2013, Google ranked 5th in lobbying spending, up from 213th in 2003. In 2012, the company ranked 2nd in campaign donations of technology and Internet sections.

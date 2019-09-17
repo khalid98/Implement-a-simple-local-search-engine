@@ -1,0 +1,5 @@
+﻿  Source.cpp
+g:\الجامعة\cs2\1'st term\data structures\c++\project\project2-1\project2-1\linkedlist.h(114): warning C4715: 'LinkedList<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::getEntry': not all control paths return a value
+g:\الجامعة\cs2\1'st term\data structures\c++\project\project2-1\project2-1\linkedlist.h(114): warning C4715: 'LinkedList<Page<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::getEntry': not all control paths return a value
+  Project2-1.vcxproj -> G:\الجامعة\CS2\1'st Term\Data Structures\C++\project\Project2-1\Debug\Project2-1.exe
+  Project2-1.vcxproj -> G:\الجامعة\CS2\1'st Term\Data Structures\C++\project\Project2-1\Debug\Project2-1.pdb (Partial PDB)

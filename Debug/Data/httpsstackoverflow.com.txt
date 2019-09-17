@@ -1,0 +1,1068 @@
+Stack Overflow
+Questions
+Developer Jobs
+Tags
+Users
+
+Search…
+ 
+Log In Sign Up
+Learn, Share, Build
+Each month, over 50 million developers come to Stack Overflow to learn, share their knowledge, and build their careers.
+
+Join the world’s largest developer community.
+
+ Google
+ Facebook
+OR
+Display name
+
+J. Doe
+Email address
+
+you@example.com
+Password
+
+********
+ Sign Up
+By registering, you agree to the privacy policy and terms of service.
+Stack Overflow Business Solutions: Looking to understand, engage, or hire developers? Learn more »
+Top Questions interesting360 featured hot week month
+0
+votes
+ 
+0
+answers
+ 
+1
+view
+How do I delete a field from my Django ModelForm?
+python django asked 40 secs ago w.y 24
+0
+votes
+ 
+0
+answers
+ 
+1
+view
+AWS deployment with kubernetes 1.7.2 continuously running in pod getting killed and restarted
+amazon-web-services kubernetes kubernetes-helm asked 52 secs ago mi10 28
+2
+votes
+ 
+1
+answer
+ 
+22
+views
+Clang warning about static templated constexpr (inline function is not defined)
+c++ gcc clang answered 54 secs ago RustyX 15.6k
+0
+votes
+ 
+0
+answers
+ 
+9
+views
+IBM watson visual recognition services _visualRecognition.Classify() is not returning proper result for Custom classes
+ibm-watson-cognitive visual-recognition modified 1 min ago Hanumantapppa Budihal 1
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+HTML CSS How to change border shape
+html css border center asked 1 min ago Luke Roberts 127
+2
+votes
+ 
+0
+answers
+ 
+17
+views
+How do I solve getting stuck issue of two nested for loops?
+c# performance for-loop modified 1 min ago Camilo Terevinto 6,478
+0
+votes
+ 
+0
+answers
+ 
+7
+views
+Is customizing YAML Serialization in python using decorator implemented somewhere?
+python serialization deserialization yaml modified 1 min ago Veltz 101
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+Google BigQuery ExponentialBackoff job reload function Fatal error: Uncaught Error: Call to undefined method
+php google-bigquery exponential-backoff asked 2 mins ago Chris Jones 10
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+Change position of the UIBarButton in UINavigationBar Swift
+ios swift uinavigationbar asked 2 mins ago K.Pilch 61
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Laravel 5.5 facade not found when using alias
+php mysql laravel vimeo laravel-5.5 asked 2 mins ago Dorin Niscu 135
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+Cramers V correlation matrix for nominal variables in R
+r matrix correlation asked 2 mins ago Nathalie L. 1
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+Angular 5 library to draw polygon over image
+angular image-processing asked 3 mins ago Carlos Ferras 71
+0
+votes
+ 
+0
+answers
+ 
+6
+views
+AudioKit “disconnected state” crash related to creation order of nodes in the chain
+ios swift audiokit modified 3 mins ago Tyler White 271
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+typescript get typeof this in static method
+typescript inheritance asked 3 mins ago Chris 1,300
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+How can i get row number from Qpoint rigth click on QTableView?
+python-3.x pyqt5 asked 4 mins ago Thib 11
+0
+votes
+ 
+0
+answers
+ 
+11
+views
+confusion in implementing stack functions in stl
+c++ c function stl stack asked 4 mins ago Vivek Chawla 1
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+React Router v4 fetch data based on params
+javascript reactjs parameters react-router fetch asked 4 mins ago Giuseppe Magazzù 1
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+kendo Grid dont Show data
+asp.net-mvc kendo-grid asp.net-core-mvc telerik-grid asked 4 mins ago sunny 515
+0
+votes
+ 
+0
+answers
+ 
+9
+views
+Concatenating 4 rows in MySQL
+mysql modified 4 mins ago panther 16.5k
+0
+votes
+ 
+0
+answers
+ 
+11
+views
+Looking for a specific CUDA library (if it exists)
+c++ cuda gpu gpgpu modified 4 mins ago bvzon 4
+0
+votes
+ 
+0
+answers
+ 
+7
+views
+Combine two list given order by R Studio
+r modified 4 mins ago John Coleman 29.1k
+0
+votes
+ 
+0
+answers
+ 
+5
+views
+Google Play Games returns false on Social.localUser.Authenticate
+c# android unity3d google-play modified 4 mins ago Camilo Terevinto 6,478
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Change Tensorflow device placement algorithm for a multi-GPU machine
+tensorflow asked 5 mins ago conflux 16
+0
+votes
+ 
+0
+answers
+ 
+8
+views
+Passing instanced objects with signals?
+python python-3.x pyqt pyqt5 signals-slots asked 5 mins ago Aaron Tomason 77
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Select Statement has Case that provies select value - SQL Server
+sql-server select case asked 5 mins ago dotNETEngineer 45
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Importing image urls/src into JavaScript module - React
+reactjs webpack asked 5 mins ago Society43 320
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Heroku can't find package.json during build although I have it
+heroku heroku-cli asked 6 mins ago Joaquim Ferrer 132
+0
+votes
+ 
+0
+answers
+ 
+6
+views
+how to compress and greyscale images in nodejs?
+node.js asked 6 mins ago Andrew 2
+0
+votes
+ 
+0
+answers
+ 
+8
+views
+Facebook Graph API invite friends to website
+facebook facebook-graph-api facebook-javascript-sdk modified 6 mins ago pavel 22
+0
+votes
+ 
+0
+answers
+ 
+9
+views
+Django cannot import name RemovedInDjango20Warning
+python django django-models path modified 6 mins ago phd 7,500
+0
+votes
+ 
+0
+answers
+ 
+9
+views
+API GET Request from two or more collections/schemas
+node.js mongodb api get mean-stack modified 7 mins ago Jibran Yousuf 1
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Can “Sequential Feature Selector” be used for one-class feature selection?
+python-3.x classification feature-selection asked 7 mins ago TTZ 78
+1
+vote
+ 
+1
+answer
+ 
+10
+views
+Pandas - Convert columns to new rows after groupby
+python pandas answered 7 mins ago Wen 24.8k
+-1
+votes
+ 
+0
+answers
+ 
+11
+views
+cannot open database requested - the login failed failed for user
+vb.net sql-server-2014 modified 7 mins ago René Vogt 26.8k
+1
+vote
+ 
+3
+answers
+ 
+22
+views
+With TypeScript, can I type a curried version of getProperty<T, K extends keyof T>
+typescript generics currying answered 7 mins ago chautelly 78
+1
+vote
+ 
+1
+answer
+ 
+8
+views
+New Project, Old Nuget
+nuget visual-studio-2017 answered 7 mins ago Ralph Willgoss 6,791
+0
+votes
+ 
+0
+answers
+ 
+10
+views
+How do I sort the DOM elements in the same order as the thumbnails were sorted
+javascript jquery asked 8 mins ago Vadim Bekish 23
+-2
+votes
+ 
+5
+answers
+ 
+41
+views
+Is there a way to delete similar words from array's elements?
+javascript modified 8 mins ago Nina Scholz 116k
+2
+votes
+ 
+1
+answer
+ 
+2k
+views
+Why does using weld joints make my Box2D program slow?
+box2d box2d-iphone modified 8 mins ago Ciro Santilli ???? ???? ??? 95.3k
+7
+votes
+ 
+0
+answers
+ 
+537
+views
+Is it possible to use Webpack-Hot-Middleware with NGINX on server side?
+javascript node.js express webpack-hmr webpack-hot-middleware modified 8 mins ago Francisco Mateo 1,004
+0
+votes
+ 
+1
+answer
+ 
+7
+views
+Align some nav-pills elements to right in Bootstrap 4
+twitter-bootstrap bootstrap-4 nav twitter-bootstrap-4 nav-pills answered 9 mins ago Vadim Kantorov 162
+0
+votes
+ 
+0
+answers
+ 
+5
+views
+AWS API Gateway Query parameter validation
+api aws-api-gateway asked 9 mins ago Abie 447
+0
+votes
+ 
+0
+answers
+ 
+6
+views
+save image after transformations have been applied with Glide
+android image glide asked 9 mins ago Neglected Sanity 281
+0
+votes
+ 
+0
+answers
+ 
+6
+views
+How can I move a 16x16 sprite 0.5 units at a time smoothly (8 pixels at a time)
+unity3d unity3d-2dtools asked 10 mins ago Michael Jr. 1
+0
+votes
+ 
+0
+answers
+ 
+9
+views
+Node.js TLS connections without hostname verification
+node.js ssl ssl-certificate asked 11 mins ago Thomas Jensen 1,281
+2
+votes
+ 
+1
+answer
+ 
+10
+views
+How to change the subplot width/height ratio using matplotlib.pyplot?
+python matplotlib plot modified 12 mins ago lanselibai 35
+0
+votes
+ 
+1
+answer
+ 
+4
+views
+CAShapeLayer fill color swift 4 xcode 9 iOS 11 not working any idea?
+ios xcode ios11 swift4 cashapelayer answered 12 mins ago Vadim Popov 366
+0
+votes
+ 
+1
+answer
+ 
+21
+views
+Put multiple pragma directives into one preprocessor define
+c++ c c-preprocessor pragma modified 12 mins ago melpomene 35.5k
+0
+votes
+ 
+0
+answers
+ 
+7
+views
+ActiveMQConsumer.receive(1000) returns null
+spring apache-camel jms activemq asked 13 mins ago Rajesh Malla 1
+1
+vote
+ 
+0
+answers
+ 
+6
+views
+zeppelin standalone for learning purpose with hdfs and spark what do i need to install?
+hadoop apache-spark apache-zeppelin asked 13 mins ago Jas 4,194
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Jboss number of established connection going down suddenly
+controller jboss7.x asked 13 mins ago Joe 6
+0
+votes
+ 
+1
+answer
+ 
+9
+views
+Exclude unwanted base64 links in BeautifulSoup
+python-2.7 beautifulsoup modified 13 mins ago Shahin 3,008
+0
+votes
+ 
+0
+answers
+ 
+6
+views
+D3.js Venn diagram need to resize
+javascript d3.js venn.js asked 14 mins ago Mohamed Rawoof 15
+1
+vote
+ 
+0
+answers
+ 
+12
+views
+Connection refused - Is the server running locally and accepting
+macos postgresql pg-hba.conf modified 14 mins ago Vao Tsun 17.5k
+1
+vote
+ 
+3
+answers
+ 
+499
+views
+Steal CSRF token
+javascript security csrf-protection modified 14 mins ago halfer 13k
+0
+votes
+ 
+0
+answers
+ 
+7
+views
+Bootstrap Scroll Spy .active class
+bootstrap-4 asked 14 mins ago dutterbutter 13
+0
+votes
+ 
+0
+answers
+ 
+23
+views
++50
+How do I extract a password protected 7z folder?
+python zip compression zlib 7zip modified 15 mins ago Commisioner Gordon 18
+0
+votes
+ 
+0
+answers
+ 
+9
+views
+CoArbitrary in Haskell
+haskell quickcheck asked 15 mins ago tesserakt 915
+2
+votes
+ 
+1
+answer
+ 
+56
+views
++100
+How to insert millions of data of different RDBMS in to sql server database with insert statement?
+c# mysql database ado.net answered 15 mins ago Rick James 46.4k
+0
+votes
+ 
+0
+answers
+ 
+5
+views
+SKSpriteNode .run doesn't work or doesn't work completely
+swift sprite-kit skspritenode skaction asked 16 mins ago Anton 53
+1
+vote
+ 
+0
+answers
+ 
+16
+views
+Text Wrapping in Ionic Header
+html css ionic-framework modified 17 mins ago bruntime 340
+-3
+votes
+ 
+1
+answer
+ 
+25
+views
+PHP tag within a form opening tag getting error
+php html modified 17 mins ago Masum Abid 2
+1
+vote
+ 
+0
+answers
+ 
+17
+views
+Pandas iterate function through data frame
+python python-3.x asked 17 mins ago towableslow 6
+0
+votes
+ 
+0
+answers
+ 
+9
+views
+How to calculate distance of clouds in image
+image-processing physics asked 17 mins ago Meowstar 20
+0
+votes
+ 
+0
+answers
+ 
+6
+views
+Why wont SearchView iconify in my special case when I set iconify true
+android searchview asked 18 mins ago Erik Hellberg 370
+3
+votes
+ 
+2
+answers
+ 
+42
+views
+SignalR is not loaded
+javascript html signalr answered 18 mins ago Rainman 3,150
+0
+votes
+ 
+0
+answers
+ 
+7
+views
+I can't connect a Socket to another device - cannot evaluate StructAddrinfo.toString()
+java android sockets asked 19 mins ago Samuel O.D. 1
+0
+votes
+ 
+0
+answers
+ 
+6
+views
+PyQT: QPushButton delegate in column of a treeview
+python c++ qt delegates treeview asked 20 mins ago bam94 1
+0
+votes
+ 
+0
+answers
+ 
+5
+views
+Selenium-ide command in the editor looks grey
+selenium-ide asked 20 mins ago Spiderweb 52
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Detailed PCI-E information, Windows
+graphics wmi pci asked 21 mins ago H?kan 1
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Android CardView not displayed in fragment after navigate to another fragment and back
+android navigation fragment android-cardview asked 22 mins ago Marcel Hiz 23
+0
+votes
+ 
+0
+answers
+ 
+6
+views
+QR - barcode reader and core data
+swift core-data label qr-code barcode asked 23 mins ago Rostyslav Zaiets 1
+0
+votes
+ 
+0
+answers
+ 
+5
+views
+Back button in PWA does not close the app
+back-button progressive-web-apps asked 24 mins ago Jette 145
+0
+votes
+ 
+0
+answers
+ 
+5
+views
+How to define a static placeholder in TensorFlow?
+tensorflow asked 25 mins ago AmirHJ 122
+0
+votes
+ 
+0
+answers
+ 
+5
+views
+Multi Dimensional Array in Carry Skip Adder N-bits With Verilog Code
+arrays multidimensional-array vhdl verilog asked 25 mins ago Gerson Dantas 1
+0
+votes
+ 
+0
+answers
+ 
+5
+views
+save html form to xml with php childNodes->length error
+php html xml asked 25 mins ago dani 9
+1
+vote
+ 
+0
+answers
+ 
+19
+views
+MySQL InnoDB tables don't accept Emoji's with utf8mb4 encoding
+mysql utf8mb4 character-set modified 25 mins ago Paul Neale 111
+1
+vote
+ 
+0
+answers
+ 
+10
+views
+python-FFT and PSD calculating
+python fft asked 27 mins ago Peng Liu 6
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+Excess-3 code converter design
+verilog hdl asked 27 mins ago Ravindu Kathriarachchie 1
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+checkbox column in access table form
+vba ms-access asked 27 mins ago Venugopal Appayanna 4
+2
+votes
+ 
+0
+answers
+ 
+10
+views
+How can you incorporate the error page that create-react-app uses into a custom project?
+javascript reactjs express webpack create-react-app asked 29 mins ago jrantz 17
+1
+vote
+ 
+0
+answers
+ 
+18
+views
+Convert code from Mcrypt to OpenSSL
+php mcrypt php-openssl modified 29 mins ago jww 46.1k
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+Connecting a Symptom Object to and Identity Object in my Health App
+django model-view-controller django-class-based-views modelform asked 35 mins ago Waltham WECAN 90
+1
+vote
+ 
+0
+answers
+ 
+15
+views
+Firefox extension redirect from one page to another on request
+javascript firefox-addon modified 37 mins ago Matt Fletcher 2,088
+3
+votes
+ 
+1
+answer
+ 
+24
+views
+iFrame reporting interior element heights incorrectly
+javascript css iframe resize height answered 40 mins ago namkcuR 28
+1
+vote
+ 
+0
+answers
+ 
+6
+views
+Customising user credentials in resource owner password credential grant type
+oauth-2.0 authorization token access-token bearer-token modified 43 mins ago Milad Rashidi 323
+2
+votes
+ 
+0
+answers
+ 
+18
+views
+Trying to save notes for each day of a calendar year android studio
+java android modified 51 mins ago Milad Rashidi 323
+1
+vote
+ 
+0
+answers
+ 
+8
+views
+Oracle endeca partial update changes not reflecting in endeca ref app
+oracle indexing endeca dgraph asked 53 mins ago user1858851 39
+1
+vote
+ 
+0
+answers
+ 
+6
+views
+With YouTubeApi, How To Have Status Popup When Start Time Changes
+javascript youtube-api youtube-javascript-api asked 54 mins ago Pete 18
+1
+vote
+ 
+0
+answers
+ 
+8
+views
+Why textbox border red color appears on the panel over textbox
+wpf xaml controltemplate contentpresenter validationrule asked 54 mins ago testCoder coder 13
+1
+vote
+ 
+0
+answers
+ 
+10
+views
+Ordering by sum of difference
+django django-models asked 1 hour ago user1406177 530
+1
+vote
+ 
+0
+answers
+ 
+8
+views
+Ruby + RMagick + base64 image + RGB conversion from GrayScale doesn't work
+ruby-on-rails ruby imagemagick rmagick color-scheme asked 1 hour ago marco 13
+5
+votes
+ 
+0
+answers
+ 
+33
+views
+Plotly 3D filling under the line
+r 3d plotly space-filling-curve modified 1 hour ago user20650 13.9k
+2
+votes
+ 
+0
+answers
+ 
+10
+views
+Is there a way to add mixins to the usage of <body /> inside a component
+tapestry modified 1 hour ago Aditya Sharat 504
+4
+votes
+ 
+0
+answers
+ 
+16
+views
+Pear Mail Factory Debug issue
+php pear pear-mail asked 1 hour ago onekanoobie 21
+3
+votes
+ 
+0
+answers
+ 
+12
+views
+Read a very large number of file on s3 with spark textFile
+performance amazon-web-services apache-spark amazon-s3 emr asked 1 hour ago Johny19 1,331
+Looking for more? Browse the complete list of questions, or popular tags. Help us answer unanswered questions.
+Ask Question
+Work from anywhere
+Operations Engineer (Cloud Services)
+Wikimedia Foundation, Inc.San Francisco, CA
+REMOTE
+linuxdevops
+Traffic Security Engineer
+Wikimedia Foundation, Inc.San Francisco, CA
+REMOTE
+c++c
+Senior Mechatronics Engineer
+FLO Cycling LLCNo office location
+$100K - $100KREMOTE
+embeddedbluetooth
+Director of Security
+Wikimedia Foundation, Inc.San Francisco, CA
+REMOTE
+c++c
+Work remotely - from home or wherever you choose.
+
+Browse remote jobs
+Hot Network Questions
+The proper term for a third party economy
+What anime is this character from?
+Guitar: Left-handed or Right-handed?
+Should Luke's lightsaber have given away his plan?
+Will my device work with Ubuntu?
+How to deal with inactive students in undergraduate projects?
+How could the free market limit the effects of net neutrality's repeal?
+What's that Unicode character in my clipboard?
+What are the "capital gains" my ETF is distributing to me alongside its dividends?
+A problem on estimability of parameters
+Parse a list of signed unary numbers
+How to get access to scientific articles after leaving academia, to see if people are citing me correctly
+Product of binomial coefficients taken two at a time
+How to convince my parents I'm happy with my social life?
+What would cause a region of land to become barren over several decades?
+Why doesn't South Korea give up its claim on North Korea?
+How do I insist that American hotels accept my employer's credit card for payment, instead of asking for personal credit card upon check-in?
+Why are "tomorrow" and "morning" the same in German?
+antonym for "thimble"
+how do I find a shutter-style (off-half-full press) momentary button?
+What could cause sugary rain?
+Role of lHash field in RSAES-OAEP
+Was the mythology in "Moana" based on an established myth?
+Is there an official way to effectively carry a holy symbol without breaking Vow of Poverty?
+ recent questions feed
+STACK OVERFLOW
+Questions
+Jobs
+Developer Jobs Directory
+Salary Calculator
+Help
+Mobile
+STACK OVERFLOW
+BUSINESS
+Talent
+Ads
+Enterprise
+COMPANY
+About
+Press
+Work Here
+Legal
+Privacy Policy
+Contact Us
+STACK EXCHANGE
+NETWORK
+Technology
+Life / Arts
+Culture / Recreation
+Science
+Other
+Blog Facebook Twitter LinkedIn
+site design / logo © 2017 Stack Exchange Inc; user contributions licensed under cc by-sa 3.0 with attribution required. rev 2017.12.15.28180

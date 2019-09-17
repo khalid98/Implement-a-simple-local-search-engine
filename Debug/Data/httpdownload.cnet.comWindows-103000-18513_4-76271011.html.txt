@@ -1,0 +1,360 @@
+ 
+
+
+Search software, apps, games, & more...
+Enter to Search
+Popular Apps 
+Best Apps 
+Guides 
+CNET 
+English 
+ 
+Windows 10
+ 
+DriverMax
+ 
+Andy OS
+ 
+Driver Booster
+ 
+Driver Easy
+Let Your Voice Be Heard with These Speech Recognition Apps
+HOME WINDOWS SOFTWARE UTILITIES & OPERATING SYSTEMS OPERATING SYSTEMS & UPDATES WINDOWS 10
+
+Windows 10
+VISIT SITEEXTERNAL DOWNLOAD SITE
+ 
+EDITORS' RATING:
+4
+EXCELLENT
+ 
+AVERAGE USER RATING:
+2.9
+OUT OF 61 VOTES
+Save 16% off Office 365 with a yearly subscription!
+BUY NOW
+Start videoLarge play-pause togglePlay pause00:0000:00Closed captionsSettingsVolumeFullscreen
+
+EDITORS' REVIEW BY TOM MCNAMARA / OCTOBER 18, 2017
+Since Windows 10 came out in summer 2015, it has gone through a gauntlet of criticism and evolution on its path to hundreds of millions of computers around the world. With the October 2017 Fall Creators Update, the OS has accumulated enough changes to warrant a new evaluation. What's changed -- and what hasn't? Let's take a look.
+
+PROS
+The foundation is solid: While Windows 10 has some issues (which we'll get into), the core platform boots quickly, offers smooth navigation, migrates users away from Internet Explorer, brings performance enhancements for gamers with DirectX 12, and delivers a competent Siri/Google Assistant competitor with Cortana, which can conduct Web searches based on voice and keyboard input and help manage your calendar, travel plans, email, and text messages. You also get the Start menu that was missing from Windows 8. Overall, Windows 10 feels like the upgrade that we didn't quite get with Windows 8, and the Fall Creators Update extends the vision further.
+
+Microsoft Edge becomes a compelling alternative: The company released test versions of Microsoft Edge (its replacement for Internet Explorer in Windows 10) for Android and iOS in the days leading up to the release of the Fall Creators Update, so now users of this browser can now smoothly sync their web activities across mobile and desktop devices. (This is functionality that Google Chrome, Mozilla Firefox, and Apple Safari users have had for some time, so it's a major gap closer for one of Microsoft's core apps.) You can browse the web on your Android phone, set it down, open Edge on your Windows 10 PC, and pick up right where you left off.
+
+Edge's library of extensions remains small -- and it's still absent in the mobile version -- but it has a lot of the major ones, including LastPass, 1Password, Evernote, Reddit Enhancement Suite, Pinterest, and a number of popular ad blockers.
+
+Cortana gets some nice upgrades: Cortana can now alert you if someone is calling your Android phone and contact them via text message, if you have the Cortana app [TKTK catalog link] installed on that phone. You can also now tell her with voice commands to log you out of Windows, shut your PC down, restart, or lock the screen, assuming you have a microphone connected to or built into your PC. Cortana also has some enhanced dictation abilities, letting you speak entire emails, though it's not sharp enough to replace pro speech-to-text options like Dragon NaturallySpeaking.
+
+Enhanced Task Manager: Gamers will enjoy this new feature: The Performance tab now has a separate tracker for your video card. You now get handy graphs to see how much your GPU is getting pushed, how much RAM it's using, your driver version and date of release, and the name of the card itself. This is handy, not just for testing but also for troubleshooting other people's computers. Knowing what video card a person has is critical to understanding a problem they may be having with it, and now they can just open the Task Manager with the Ctrl+Shift+Esc keyboard shortcut and read off the product name to the person trying to help them.
+
+CONS
+Previous Windows installations take up a lot of space: After upgrading to the Fall Creators version of Windows 10, the Disk Cleanup utility reported that the previous version of Windows 10 -- automatically preserved as a backup in case something goes wrong -- was taking up 25 gigabytes of space.
+
+Since laptops with about 128GB of storage have become common, this is a lot of real estate for a large number of users. You don't want a system backup on your main drive anyway; keeping the backup separate means that you can restore it if the main drive gets corrupted by a virus or physically damaged, or if your computer is lost or stolen. Windows already has solid built-in tools to create and restore system backups, so it's puzzling that they're not used here. Microsoft also offers 50GB of cloud storage via OneDrive for $2 a month, but that doesn't enter into the process either.
+
+Not to mention that the Disk Cleanup Utility is under a few layers that most users probably won't dig through to begin with, so they'll just lose storage space and need to dig around the Internet to figure out where it went, which is a poor user experience.
+
+Still underwhelming control over updates and user info: When Windows 10 launched in the summer of 2015, there were frequent complaints about how much information the operating system could communicate back to Microsoft, and complaints about the vague characterization of the actual info being transmitted. In previous versions of Windows, it would check automatically for updates by default, but you could choose to disable this function and delay updates indefinitely.
+
+This was desirable because Windows updates sometimes break one thing as they fix another, to the point where you might not be able to get Windows to load at all. It was better to wait and see if the updates were causing problems for others and to give yourself the time to create a system backup if you desired.
+
+Unfortunately, Windows 10 still doesn't let you freeze updates, only postpone them, and your settings for sending diagnostic data to Windows 10 are still "Basic" or "Full." Microsoft characterizes the first setting as "the data necessary to keep Windows up to date and secure," but the company has yet to articulate much beyond this or provide a compelling explanation as to why this can't be controlled by the owner of the computer. Granted, tech support is more manageable when everyone is using the same version of the product, but this approach takes too much agency out of users' hands.
+
+BOTTOM LINE
+If you want an operating system where you have full control over updates, privacy, and system backups, Windows 10 isn't the best choice, unfortunately. But with the enhancements to Edge and Cortana and their integration with OneDrive and Outlook.com, Microsoft offers an interesting alternative to Windows 7, and even to the Google and Apple ecosystems.
+
+ 
+READ MORE
+PUBLISHER'S DESCRIPTION
+From Microsoft:
+It's the Windows you know, only better
+
+Windows 10 is so familiar and easy to use, you'll feel like an expert. The Start Menu is back in an expanded form, plus we'll bring over your pinned apps and favorites so they're ready and waiting for you.
+
+It starts up and resumes fast, has more built-in security to help keep you safe, and is designed to work with software and hardware you already have.
+
+The web that works the way you do. 
+Windows 10 comes with Microsoft Edge, an all-new browser that's built to give you a better web experience. Write or type notes directly on webpages and share them with others, read online articles free of distraction, and save your favorite reads for later access. And with Cortana enabled, you get instant access to key actions--like making reservations or reading reviews--without leaving the page you're on.
+
+Meet Cortana, your truly personal digital assistant. 
+Cortana works across your day and your devices to help you get things done. By learning more over time, Cortana becomes more personal and useful to you. Cortana's also best at reminders, delivering them at the right time and place so you forget less and can do more.
+
+Multi-doing helps you get to "done" faster. 
+Easily snap up to four apps in place and see all open tasks in a single view. You can even create virtual desktops when you need more space or want to group things by project.
+
+Windows Store is your one-stop shop. 
+Introducing the new Windows Store, a unified shopping experience across every Windows 10 device. Browse the store on your PC, tablet, or phone and easily purchase great digital content including apps, games, music, movies and TV shows.
+
+Xbox is coming to Windows. 
+Get the biggest Xbox franchises with the best of Xbox Live. Start recording gameplay in seconds, compete against console players, and stream games from your Xbox One console to your Windows 10 device from anywhere in your home.
+
+Great apps come standard. 
+Windows 10 comes with great built-in apps like Maps, Photos, Mail & Calendar, Music, and Video. And these apps use OneDrive to back up your information and sync seamlessly across your Windows 10 devices, so you're never far from what you need..
+
+ 
+READ MORE
+USER REVIEWS
+CURRENT VERSION
+
+2.8
+OUT OF 60 VOTES
+
+5 STAR
+16
+4 STAR
+9
+3 STAR
+5
+2 STAR
+10
+1 STAR
+20
+ALL VERSIONS
+
+2.9
+OUT OF 61 VOTES
+
+5 STAR
+17
+4 STAR
+9
+3 STAR
+5
+2 STAR
+10
+1 STAR
+20
+MY RATING
+
+
+WRITE REVIEW
+Reviews 
+ 
+Sort 
+123...6NEXT
+{ review.getRatingValue }} "Forced Microsoft crap"vetdf VETDF JULY 15, 2017  /  VERSION: NOT FOUND
+PROS
+
+There are no Pros for Windows 10.
+
+CONS
+
+Forced on you. I reverted back to 7 two times. Only to have 10 forced back to my System. ALL windows 10 is another forced spyware on users. Try to turn off some of the forced reporting to Microsoft. It comes back after a few days.
+
+SUMMARY
+
+Don't trust Microsoft.
+
+Reply to this reviewWAS THIS REVIEW HELPFUL?456   456  
+{ review.getRatingValue }} "Windows 10 is the best!"ADisgustingPerson ADISGUSTINGPERSON APRIL 14, 2017  /  VERSION: NOT FOUND
+PROS
+
+Home Button, Interface and so on.
+
+CONS
+
+Spying, the prevention of changing different settings, and automatic and forced updates to spy even more on you and your device.
+
+SUMMARY
+
+If you want the best looking and least secure (Microsoft is the "enemy" here) operating system - Windows 10 is for you.
+
+Reply to this reviewWAS THIS REVIEW HELPFUL?123   123  
+{ review.getRatingValue }} "Worst Windows Ever"Spanholeto SPANHOLETO APRIL 03, 2017  /  VERSION: NOT FOUND
+PROS
+
+Design and widgets
+
+CONS
+
+All, except design and widgets
+
+SUMMARY
+
+Hasta la vista Windows!!
+
+Reply to this reviewWAS THIS REVIEW HELPFUL?456   456  
+{ review.getRatingValue }} "Worst Windows Ever"Stonedowner STONEDOWNER FEBRUARY 25, 2017  /  VERSION: NOT FOUND
+PROS
+
+Great looks.
+
+CONS
+
+Many errors. Many stupidities. Worst apps and programs of their kind.
+
+Reply to this reviewWAS THIS REVIEW HELPFUL?456   456  
+{ review.getRatingValue }} "I find it easy and convenient to use."zbuckone ZBUCKONE FEBRUARY 08, 2017  /  VERSION: NOT FOUND
+PROS
+
+Many of Windows previous features most of which have been expanded and easier to use. 
+Support is easy to find for almost everything. If not from Microsoft, there is a large , helpful community willing to help. 
+The operating system is kept up to date automatically. etc. , etc., etc.
+
+CONS
+
+There are always cons to everything, I prefer to stay with the positive and I see nothing positive about running something down.
+
+SUMMARY
+
+I am satisfied with Windows 10 and I firmly believe it will improve with time.
+
+Reply to this reviewWAS THIS REVIEW HELPFUL?012   012  
+{ review.getRatingValue }} "Windows 10 is a disaster"Vanillaman VANILLAMAN DECEMBER 05, 2016  /  VERSION: NOT FOUND
+PROS
+
+None whatsoever
+
+CONS
+
+Destabilises your browsing experience, cripples your PC. CNET have lost their credibility since they are overtly biased. They have absolutely no integrity and sneak third party apps onto their downloads.
+
+SUMMARY
+
+Windows 10 will cripple your computer. BEWARE!!
+
+Reply to this reviewWAS THIS REVIEW HELPFUL?456   456  
+{ review.getRatingValue }} "ABSOLUTE GARBAGE STAY AWAY FROM THIS COMPUTER KILLER"fredccccc FREDCCCCC NOVEMBER 02, 2016  /  VERSION: NOT FOUND
+PROS
+
+NONE YOU WILL REGRET INSTALLING THIS JUNK
+
+CONS
+
+Totally wrecked my computer - CPU use out of control due to non functioning components such as : 
+
+Windows Updates don't work, but the imbeciles at Microsoft tell us that Windows 10 makes us safer. Yeah right. 
+
+The standard programs such as email are an amateurish joke. 
+
+I've rolled back to 8.1 and in short order will be buying a Mac.
+
+SUMMARY
+
+STAY AWAY
+
+Reply to this reviewWAS THIS REVIEW HELPFUL?456   456  
+{ review.getRatingValue }} "Destabilizes software and hardware"shadiyuones SHADIYUONES JULY 27, 2016  /  VERSION: NOT FOUND
+PROS
+
+nice features if only they were working stably
+
+CONS
+
+Unstable features that cause a myriad of headache
+
+SUMMARY
+
+I bought an Asus computer (in April 2016) that ran like a charm, I loved it. But as soon as a "new windows 10 build" was updated on my computer, the computer wouldn't wake up after it goes to sleep. And the only way to wake it up was to force shutdown and restart after every time your computer goes to sleep. 
+
+I sent my computer to be fixed by the geeks squad twice, it took a total of 25 days! To fix the problem they replaced the hardware and the motherboard. I think the update did some type of damage. 
+
+I got my Asus back, and it was running smoothly. On July 26th, 2016, there was an update from Windows, a new build. As soon as I downloaded the update, the old headache came back again. I used "the revert to an earlier build" to cure the problem. 
+
+Of how much frustration and time wasting Windows 10 has cost me, I will be seriously considering switching to Apple after 12 years of using only Windows/PC. 
+
+Be wary of any Windows 10 update, for it would screw you up and make you hate your computer =. 
+
+Microsoft, we are not testing animals, we pay money to get service, not to get "you know the word." Test your products thoroughly before dumping them on people.
+
+Reply to this reviewWAS THIS REVIEW HELPFUL?567   567  
+{ review.getRatingValue }} "Very little to fault"amips AMIPS JULY 25, 2016  /  VERSION: NOT FOUND
+PROS
+
+Faster, lighter and more secure. Lots of new stuff!
+
+CONS
+
+Cortana not quite as good as OK GOOGLE yet!
+
+SUMMARY
+
+Well worth the FREE! upgrade. n1 Microsoft - you look like you've got it right after just 18 years!!
+
+Reply to this reviewWAS THIS REVIEW HELPFUL?234   234  
+{ review.getRatingValue }} "an improvement over the previous versions of windows"razvan.maha RAZVAN.MAHA JULY 08, 2016  /  VERSION: NOT FOUND
+PROS
+
+better than the previous versions of windows
+
+CONS
+
+none that i can think of
+
+Reply to this reviewWAS THIS REVIEW HELPFUL?234   234  
+RESULTS 1–10 OF 60123...6NEXT
+ADD YOUR REVIEW
+Login or create an account to post a review.
+
+ 
+SHOW REVIEWS
+FULL SPECIFICATIONS
+WHAT'S NEW IN VERSION
+This is the first official release of Windows 10
+GENERAL
+Publisher	Microsoft
+Publisher web site	http://www.microsoft.com/
+Release Date	July 28, 2015
+Date Added	July 28, 2015
+Version	
+CATEGORY
+Category	Utilities & Operating Systems
+Subcategory	Operating Systems & Updates
+OPERATING SYSTEMS
+Operating Systems	Windows 7/8/8.1
+Additional Requirements	Microsoft Account, Windows 7, 8, or 8.1 and the latest Windows Update. 
+Processor: 1 gigahertz (GHz) or faster processor or SoC
+RAM: 1 gigabyte (GB) for 32-bit or 2 GB for 64-bit 
+Hard disk space: 16 GB for 32-bit OS 20 GB for 64-bit OS 
+Graphics card: DirectX 9 or later with WDDM 1.0 driver 
+Display: 800x600
+DOWNLOAD INFORMATION
+File Size	Not Available
+File Name	External File
+POPULARITY
+Total Downloads	957,617
+Downloads Last Week	2,814
+PRICING
+License Model	Purchase
+Limitations	Not available
+Price	$119 REPORT A PROBLEM
+PREVIOUS VERSIONS
+
+SCREENSHOTSNextBack
+
+EXPLORE FURTHER
+WINDOWS 10 INSTALL
+WHATSAPP FOR WINDOWS 10 PC
+WINDOWS 10 64 BIT
+DRIVER UPDATE WINDOWS 10
+WINDOWS 10 MOVIE MAKER
+UC BROWSER WINDOWS 10
+WINDOWS 7
+WINDOWS 8
+© CBS Interactive Inc. All rights reserved.Privacy Policy Ad Choice Patents Terms of Use Mobile User Agreement
+Download.com
+DOWNLOAD
+Windows
+Mac
+Android
+iOS
+MORE
+About Download.com
+Download Help Center
+Advertise on Download.com
+Partner with Download.com
+Add Your Software
+CNET
+Reviews
+News
+Video
+How To
+Deals
+FOLLOW US
+ Facebook
+ Twitter
+ Google+
+ YouTube
+
